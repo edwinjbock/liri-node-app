@@ -1,0 +1,7 @@
+http://www.omdbapi.com/?t=Forrest+Gump&y&plot=short&apikey=trilogy
+
+SPOTIFY "LIRI-Bot"
+Client ID...
+cd866262aeae4ca0aef37729909d6904
+Client Secret...
+1cf5bd59058f4c028d67710dad0ae694
